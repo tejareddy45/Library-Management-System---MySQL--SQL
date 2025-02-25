@@ -15,16 +15,22 @@ Data Insertion: Added sample records to simulate real-world scenarios.
 - Retrieve overdue books and their due dates.
 - List the most borrowed books in the library.
 - Track books by publisher.
-- 
+  
 **Optimization:** Used indexing and proper normalization to ensure efficient data retrieval.
 
 ## Datasets 
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/authors.csv">1.Authors</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/book%20copies.csv">2.Book Copies</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/book%20loans.csv">3.Book Loans</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/books.csv">4.Books</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/borrower.csv">5.borrower</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/library%20branch.csv">6.Library Branch</a>
+
 <a href = "https://github.com/tejareddy45/Library-Management-System---MySQL--SQL/blob/main/publisher.csv">7.Publisher</a>
 
   
